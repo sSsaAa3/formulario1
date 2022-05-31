@@ -1,0 +1,27 @@
+body {
+  height: 2000px;
+  background-image: url("fondo1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  margin-left: 11px;
+  margin-right: 10px;
+  margin-top: 11px;
+  margin-bottom: 10px;
+  height: 800px;
+  
+}
+h1 {
+  font-weight:bold;
+  text-align:center;
+  background:#95A5A6;  
+}
+p {
+  font-size:20px;
+  text-align:justify;
+  text-transform:capitalize;
+  text-shadow:5px;
+  line-height:30px;  
+  background:#ccc;  
+}
